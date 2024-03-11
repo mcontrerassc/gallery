@@ -1,5 +1,39 @@
 {
+  "Troms\u00f8": [
+    {
+      "width": 6016,
+      "height": 4000,
+      "path": "./photos/Troms\u00f8/DSC_0797.jpg",
+      "compressed_path": "./photos/Troms\u00f8/DSC_0797.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Troms\u00f8/DSC_0797.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6016,
+      "path": "./photos/Troms\u00f8/DSC_0814.jpg",
+      "compressed_path": "./photos/Troms\u00f8/DSC_0814.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Troms\u00f8/DSC_0814.placeholder.jpg"
+    },
+    {
+      "width": 6016,
+      "height": 4000,
+      "path": "./photos/Troms\u00f8/DSC_0841.jpg",
+      "compressed_path": "./photos/Troms\u00f8/DSC_0841.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Troms\u00f8/DSC_0841.placeholder.jpg"
+    }
+  ],
   "Oslo": [
+    {
+      "width": 4000,
+      "height": 6016,
+      "path": "./photos/Oslo/DSC_0285.jpg",
+      "compressed_path": "./photos/Oslo/DSC_0285.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Oslo/DSC_0285.placeholder.jpg"
+    },
     {
       "width": 6016,
       "height": 4000,
