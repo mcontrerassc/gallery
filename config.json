@@ -1,13 +1,23 @@
 {
-  "Travel Photography": [],
-  "Mockups": [
+  "Oslo": [
     {
       "width": 6016,
       "height": 4000,
-      "path": "./photos/Mockups/DSC_0275.jpg",
-      "compressed_path": "./photos/Mockups/DSC_0275.min.jpg",
+      "path": "./photos/Oslo/DSC_0275.jpg",
+      "compressed_path": "./photos/Oslo/DSC_0275.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/DSC_0275.placeholder.jpg"
+      "placeholder_path": "./photos/Oslo/DSC_0275.placeholder.jpg"
+    }
+  ],
+  "Copenhagen": [],
+  "Stockholm": [
+    {
+      "width": 4000,
+      "height": 6016,
+      "path": "./photos/Stockholm/DSC_0103 2.jpg",
+      "compressed_path": "./photos/Stockholm/DSC_0103 2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Stockholm/DSC_0103 2.placeholder.jpg"
     }
   ]
 }
