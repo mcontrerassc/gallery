@@ -13,6 +13,22 @@
     {
       "width": 4000,
       "height": 6016,
+      "path": "./photos/Stockholm/DSC_0032.jpg",
+      "compressed_path": "./photos/Stockholm/DSC_0032.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Stockholm/DSC_0032.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6016,
+      "path": "./photos/Stockholm/DSC_0090.jpg",
+      "compressed_path": "./photos/Stockholm/DSC_0090.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Stockholm/DSC_0090.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 6016,
       "path": "./photos/Stockholm/DSC_0103 2.jpg",
       "compressed_path": "./photos/Stockholm/DSC_0103 2.min.jpg",
       "compressed": false,
