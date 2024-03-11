@@ -227,44 +227,12 @@
   ],
   "Mockups": [
     {
-      "width": 1440,
-      "height": 2020,
-      "path": "./photos/Mockups/Desktop.png",
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
+      "width": 6016,
+      "height": 4000,
+      "path": "./photos/Mockups/DSC_0275.jpg",
+      "compressed_path": "./photos/Mockups/DSC_0275.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/curriculum.png",
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png"
-    },
-    {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Mockups/Frame.png",
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/glossary.png",
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png"
-    },
-    {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/photoframe.png",
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png"
+      "placeholder_path": "./photos/Mockups/DSC_0275.placeholder.jpg"
     }
   ]
 }
