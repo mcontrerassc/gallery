@@ -27,6 +27,14 @@
   ],
   "Oslo": [
     {
+      "width": 3724,
+      "height": 5601,
+      "path": "./photos/Oslo/DSC_0230.jpg",
+      "compressed_path": "./photos/Oslo/DSC_0230.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Oslo/DSC_0230.placeholder.jpg"
+    },
+    {
       "width": 4000,
       "height": 6016,
       "path": "./photos/Oslo/DSC_0285.jpg",
